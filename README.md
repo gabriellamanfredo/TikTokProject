@@ -1,6 +1,6 @@
 # Tik Tok
 
-This project is a TikTok developed as part of the course offered by EBAC (British School of Creative Arts) to enhance web development skills using JavaScript, CSS, and React, with integration to a database (Firebase).
+This project is a TikTok developed as part of the course offered by EBAC (Escola Britânica de Artes Criativas & Tecnologia) to enhance web development skills using JavaScript, CSS, and React, with integration to a database (Firebase).
 
 ## Objective
 
